@@ -1,0 +1,16 @@
+Fire Station,3981,Expert,Town
+Theatre,4120,Expert,Town
+Riding Stable,1025,Medium,Play
+Hospital,1220,Medium,Play
+Super Car,235,Easy,Play
+Vintage Car,352,Easy,Play
+Tree House,5120,Expert,Display
+Car Park,1124,Medium,Town
+Flowers 1A,632,Medium,Display
+Castle,2045,Medium,Play
+Aeroplane large,2415,Medium,Play
+Aeroplane medium,1520,Easy,Play
+Motorbike large,1563,Medium,Display
+Cafe,2041,Medium,Town
+Shopping Mall,6512,Medium,Town
+Park,1352,Easy,Play

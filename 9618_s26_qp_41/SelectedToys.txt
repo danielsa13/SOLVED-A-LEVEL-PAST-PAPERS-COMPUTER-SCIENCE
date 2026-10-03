@@ -1,0 +1,9 @@
+Riding Stable,1025,Medium,Play
+Hospital,1220,Medium,Play
+Car Park,1124,Medium,Town
+Flowers 1A,632,Medium,Display
+Castle,2045,Medium,Play
+Aeroplane large,2415,Medium,Play
+Motorbike large,1563,Medium,Display
+Cafe,2041,Medium,Town
+Shopping Mall,6512,Medium,Town
